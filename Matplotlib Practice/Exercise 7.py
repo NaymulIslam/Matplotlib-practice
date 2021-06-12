@@ -13,7 +13,7 @@ plt.figure(figsize=(7,5),dpi=100)
 plt.plot (x1,y1,'b',label='45 Degree Line')
 plt.plot(x,y,'r.--', label='Lorenz Curve') 
 
-
+#nadim
 
 
 plt.title ("Gini Coefficient", fontdict={'fontname':'Times New Roman', 'fontsize': 20})
